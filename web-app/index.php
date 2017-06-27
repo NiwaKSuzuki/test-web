@@ -18,7 +18,7 @@
   </style>
 </head>
 <body>
-  <h1>ello world</h1>
+  <h1>hello world<h1>
   <ul><?php foreach($INFO as $e){echo '<li>', $e, '</li>';}?></ul>
   <p>NiwaNiwa</p>
 </body>
